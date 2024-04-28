@@ -86,7 +86,7 @@ nav .material-symbols-outlined{
 
 /* 배너 부분 */
 .banner-section{
-  background-color: gray; height: 93vh; position: relative;
+  background-color: gray; height: 100vh; position: relative;
 }
 /* 배경이미지 */
 .banner-section::before{
